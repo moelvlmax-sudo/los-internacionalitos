@@ -1,0 +1,109 @@
+{
+  "articles": [
+    {
+      "id": "noticia-1",
+      "title": "Inauguran nuevo Parque Botánico y Corredor Ecológico en el Centro Histórico",
+      "summary": "La obra comunitaria cuenta con más de 12 hectáreas de áreas verdes, ciclovías seguras y sistema de riego sostenible con aguas regeneradas.",
+      "content": "El alcalde municipal, junto con asociaciones vecinales y ambientalistas locales, cortó la cinta inaugural del nuevo Parque Botánico y Corredor Ecológico de la ciudad.\n\nEste proyecto de recuperación urbana representa una inversión de más de 4.2 millones de dólares y transforma una antigua zona industrial en desuso en el principal pulmón verde del distrito central.\n\nEntre sus principales atractivos destacan:\n• Más de 1,500 especies vegetales autóctonas catalogadas con códigos interactivos.\n• Un lago artificial alimentado por captación pluvial.\n• 4.5 kilómetros de senderos peatonales y ciclovías protegidas.\n• Espacios dedicados a talleres comunitarios de huertos urbanos y compostaje.\n\n\"Este parque no solo embellece nuestra ciudad, sino que devuelve la biodiversidad a nuestros barrios y crea un punto de encuentro saludable para familias y jóvenes\", expresó la arquitecta paisajista María Dolores Vega durante el acto de apertura.",
+      "category": "Local",
+      "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Vista aérea de los nuevos senderos y jardines temáticos en el parque recién inaugurado.",
+      "author": "Elena Rivas",
+      "date": "14 de Septiembre, 2026",
+      "readTime": "4 min de lectura",
+      "featured": true,
+      "views": 1421,
+      "likes": 1,
+      "comments": [
+        {
+          "userId": "superadmin-1",
+          "userName": "Super Administrador",
+          "userRole": "superadmin",
+          "content": "Excelente cobertura de la inauguración del parque. Gran iniciativa comunitaria.",
+          "id": "comm-1789447916765-29nz",
+          "createdAt": "2026-09-15T04:51:56.765Z"
+        }
+      ]
+    },
+    {
+      "id": "noticia-2",
+      "title": "Estudiantes del Instituto Tecnológico ganan torneo regional de Robótica e Inteligencia Artificial",
+      "summary": "El equipo de jóvenes innovadores desarrolló un dron submarino autónomo capaz de detectar microplásticos en ríos y embalses locales.",
+      "content": "Un grupo de cuatro estudiantes de último año del Instituto Tecnológico Local se alzó con la medalla de oro en el certamen regional de tecnología aplicada celebrado el pasado fin de semana.\n\nEl prototipo, bautizado como 'AquaScan-IV', utiliza algoritmos de visión por computadora para analizar la turbidez del agua y cartografiar focos de contaminación en tiempo real sin requerir intervención humana directa.\n\nLas autoridades educativas han anunciado una beca especial de investigación para apoyar la patente del dispositivo y llevar su despliegue piloto a la cuenca del río municipal durante el próximo mes.",
+      "category": "Comunidad",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "El equipo de robótica posa junto a su dron de detección ambiental galardonado.",
+      "author": "Carlos Menéndez",
+      "date": "13 de Septiembre, 2026",
+      "readTime": "3 min de lectura",
+      "featured": false,
+      "views": 890
+    },
+    {
+      "id": "noticia-3",
+      "title": "Club Atlético Municipal avanza a semifinales tras emocionante victoria en tiempo extra",
+      "summary": "Con gol agónico en el minuto 118, el equipo local selló su pase en una noche histórica ante más de quince mil fanáticos en el estadio.",
+      "content": "En una velada cargada de dramatismo e intensidad futbolística, el Club Atlético Municipal venció 2-1 al Deportivo Unión y aseguró su clasificación a las semifinales de la Copa Regional.\n\nEl tanto decisivo llegó tras un tiro de esquina ejecutado con precisión milimétrica que el delantero juvenil Mateo Peralta conectó de cabeza directo al ángulo superior izquierdo.\n\nLa afición invadió las calles adyacentes para festejar un hito que no se alcanzaba desde el campeonato de 2014. El técnico agradeció el apoyo incondicional de la hinchada.",
+      "category": "Deportes",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Celebración del gol decisivo en el minuto 118 frente a la grada local.",
+      "author": "Joaquín Salgado",
+      "date": "12 de Septiembre, 2026",
+      "readTime": "5 min de lectura",
+      "featured": false,
+      "views": 2150
+    },
+    {
+      "id": "noticia-4",
+      "title": "Comienza la 28ª Feria Internacional del Libro y Expresión Artística",
+      "summary": "Más de ochenta casas editoriales independientes y creadores locales se dan cita en la plaza mayor con charlas magistrales y recitales poéticos.",
+      "content": "La emblemática Feria del Libro abrió sus puertas este lunes con una programación que incluye más de 120 actividades gratuitas para todas las edades.\n\nEntre las novedades de este año destaca el pabellón de autores emergentes, un espacio de digitalización de relatos orales de los barrios más antiguos y talleres de ilustración infantil.\n\nEl evento se extenderá hasta el próximo domingo con entrada libre y gratuita para toda la comunidad.",
+      "category": "Cultura",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Pabellón central de literatura y expositores en la apertura de la feria.",
+      "author": "Sofía Valenzuela",
+      "date": "11 de Septiembre, 2026",
+      "readTime": "3 min de lectura",
+      "featured": false,
+      "views": 640
+    },
+    {
+      "id": "noticia-5",
+      "title": "Comercio local reporta crecimiento de 15% gracias al programa de consumo barrial",
+      "summary": "Las pequeñas tiendas de barrio, panaderías y mercados tradicionales incrementaron ventas tras la implementación de cuponeras y promociones municipales.",
+      "content": "El balance del tercer trimestre presentado por la Cámara de Comercio Local arrojó cifras sumamente positivas para los negocios de proximidad.\n\nLa iniciativa 'Compra en tu Barrio', impulsada conjuntamente por comerciantes y la administración comunal, ha logrado incentivar que las familias realicen sus compras cotidianas en los pequeños almacenes y ferias zonales.\n\nSe prevé una segunda fase para finales de año con descuentos especiales durante la temporada festiva.",
+      "category": "Economía",
+      "image": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Comerciantes locales reportan mejores ingresos gracias a la fidelización barrial.",
+      "author": "Mariano Castro",
+      "date": "10 de Septiembre, 2026",
+      "readTime": "4 min de lectura",
+      "featured": false,
+      "views": 520
+    },
+    {
+      "id": "noticia-6",
+      "title": "Modernizan central de monitoreo ciudadano con 80 nuevas cámaras de vigilancia en puntos estratégicos",
+      "summary": "El nuevo sistema cuenta con botones de pánico conectados directamente al servicio de emergencias y patrullaje preventivo.",
+      "content": "Las autoridades de seguridad ciudadana presentaron las nuevas instalaciones de la central de vigilancia integrada.\n\nLas nuevas cámaras de alta resolución han sido instaladas en paradas de autobuses, accesos escolares y avenidas principales con el objetivo de prevenir delitos y coordinar rápidamente la respuesta de ambulancias y patrullas.\n\nLos vecinos podrán acceder a reportes de incidencias a través de una aplicación comunitaria.",
+      "category": "Seguridad",
+      "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Pantallas del centro de monitoreo municipal operando las 24 horas del día.",
+      "author": "Elena Rivas",
+      "date": "09 de Septiembre, 2026",
+      "readTime": "3 min de lectura",
+      "featured": false,
+      "views": 1100
+    }
+  ],
+  "users": [
+    {
+      "id": "superadmin-1",
+      "name": "Super Administrador",
+      "email": "moelvlmax@gmail.com",
+      "passwordHash": "56dab00f28354197c1193d27457b82ff19c8481ee71a82c083034be8f5df075346475d2b1f1acfa98d9ba22837896e05b50ad5227de3a727de516e75d24f399b",
+      "role": "superadmin",
+      "createdAt": "2026-09-15T05:01:22.557Z"
+    }
+  ]
+}
